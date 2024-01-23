@@ -16,38 +16,34 @@ const BestSellers = () => {
         <Product
           _id="1011"
           img={bestSellerOne}
-          productName="Flower Base"
-          price="35.00"
-          color="Blank and White"
+          productName="Flower Vase"
+          price="435.00"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Elevate your space with our exquisite Clay Flower Vase, a perfect blend of timeless craftsmanship and natural beauty."
         />
         <Product
           _id="1012"
           img={bestSellerTwo}
-          productName="New Backpack"
-          price="180.00"
-          color="Gray"
+          productName="Clay vessel"
+          price="149.00"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Timeless elegance meets artisanal craftsmanship in our exquisite clay vessel, adding a touch of rustic charm to your space."
         />
         <Product
           _id="1013"
           img={bestSellerThree}
-          productName="Household materials"
-          price="25.00"
-          color="Mixed"
+          productName=" MarbelMortar and pestel"
+          price="199.00"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Experience the timeless elegance and culinary precision with our Clay Marble Mortar and Pestle, a stylish kitchen essential for grinding and blending spices effortlessly."
         />
         <Product
           _id="1014"
           img={bestSellerFour}
-          productName="Travel Bag"
-          price="220.00"
-          color="Black"
+          productName="Clay Pot"
+          price="149.00"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Exquisite craftsmanship meets timeless elegance in our Clay Pot collection, offering versatile and artfully designed pieces to elevate your culinary experience."
         />
       </div>
     </div>

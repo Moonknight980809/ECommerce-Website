@@ -54,55 +54,50 @@ const NewArrivals = () => {
           <Product
             _id="100001"
             img={newArrOne}
-            productName="Round Table Clock"
-            price="44.00"
-            color="Black"
+            productName="Clay Tea Cups"
+            price="249.00"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Artisan-crafted clay tea cups, a perfect blend of elegance and functionality for a truly sensory tea-drinking experience."
           />
         </div>
         <div className="px-2">
           <Product
             _id="100002"
             img={newArrTwo}
-            productName="Smart Watch"
-            price="250.00"
-            color="Black"
+            productName="Plant Pot"
+            price="199.00"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Elevate your greenery with our stylish and durable clay plant pots, blending timeless design with premium craftsmanship for a touch of nature in every space."
           />
         </div>
         <div className="px-2">
           <Product
             _id="100003"
             img={newArrThree}
-            productName="cloth Basket"
-            price="80.00"
-            color="Mixed"
+            productName="Cofee Mugs"
+            price="169.00"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Experience the perfect blend of rustic charm and modern elegance with our artisan-crafted clay coffee mugs, combining style and functionality for your daily brew."
           />
         </div>
         <div className="px-2">
           <Product
             _id="100004"
             img={newArrFour}
-            productName="Funny toys for babies"
-            price="60.00"
-            color="Mixed"
+            productName="Clay Sculpture"
+            price="299.00"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Captivating and intricate clay sculptures, each a unique masterpiece, crafted with skill and passion to bring artistic elegance to your space."
           />
         </div>
         <div className="px-2">
           <Product
             _id="100005"
             img={newArrTwo}
-            productName="Funny toys for babies"
-            price="60.00"
-            color="Mixed"
+            productName="Plant Pot"
+            price="199.00"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Elevate your greenery with our stylish and durable clay plant pots, blending timeless design with premium craftsmanship for a touch of nature in every space."
           />
         </div>
       </Slider>

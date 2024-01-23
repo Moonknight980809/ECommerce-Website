@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 // import { FaPlus } from "react-icons/fa";
-import { ImPlus } from "react-icons/im";
 import NavTitle from "./NavTitle";
 
 const Category = () => {
@@ -13,7 +12,7 @@ const Category = () => {
     },
     {
       _id: 991,
-      title: "Gudgets",
+      title: "Best Sellers",
     },
     {
       _id: 992,
@@ -21,12 +20,8 @@ const Category = () => {
       icons: true,
     },
     {
-      _id: 993,
-      title: "Electronics",
-    },
-    {
       _id: 994,
-      title: "Others",
+      title: "Featured",
     },
   ];
   return (
@@ -45,7 +40,6 @@ const Category = () => {
                   onClick={() => setShowSubCatOne(!showSubCatOne)}
                   className="text-[10px] lg:text-xs cursor-pointer text-gray-400 hover:text-primeColor duration-300"
                 >
-                  <ImPlus />
                 </span>
               )}
             </li>
